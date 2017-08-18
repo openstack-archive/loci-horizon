@@ -1,0 +1,2 @@
+export PROJECT=horizon
+export DISTRO=ubuntu
