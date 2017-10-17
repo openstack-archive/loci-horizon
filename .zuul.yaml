@@ -1,0 +1,8 @@
+- project:
+    name: openstack/loci-horizon
+    check:
+      jobs:
+        - noop
+    gate:
+      jobs:
+        - noop
